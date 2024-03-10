@@ -27,7 +27,8 @@ This Airbnb clone is a showcase of various web development concepts, including b
 - Responsive design for various devices
 - Deployment and hosting
 
-sh: 1: q: not found
+Whether you are a student looking to understand web development or someone interested in exploring the functionalities of Airbnb, HolbertonBnB provides an excellent learning resource.
+
 
 ## Features:.
 
