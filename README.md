@@ -61,7 +61,7 @@ HolbertonBnB leverages a modern and robust tech stack to deliver a reliable and 
 
 ## Installation:
 
-To set up HolbertonBnB on your local machine, follow these steps:
+To set up HolbertonBnB on your local machine, follow the steps below:
 
 1. Clone the repository:
 
