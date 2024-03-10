@@ -1,6 +1,6 @@
 # HolbertonBnB - Airbnb Clone
 
-# Auth: Ebenezer Kissiedu and Hanae Aghoutane
+# Authors: Ebenezer Kissiedu and Hanae Aghoutane
 
 HolbertonBnB is a full-stack web application designed to replicate the core functionalities of Airbnb, providing users with a platform to discover, book, and list accommodations. Developed as a project for educational purposes by the Holberton School, this Airbnb clone employs modern web technologies and follows industry best practices to deliver a seamless user experience.
 
