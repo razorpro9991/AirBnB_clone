@@ -56,7 +56,7 @@ HolbertonBnB leverages a modern and robust tech stack to deliver a reliable and 
 - **Authentication:** JWT (JSON Web Tokens)
 - **APIs:** RESTful API architecture
 - **Version Control:** Git
-- **Deployment:** Docker, AWS/GCP/Azure
+
 
 ## Installation
 
@@ -82,7 +82,7 @@ To set up HolbertonBnB on your local machine, follow these steps:
 4. Run the application:
 
    ```bash
-   python run.py
+   python run.p
    ```
 
 5. Open your web browser and navigate to `http://localhost:5000` to access HolbertonBnB.
