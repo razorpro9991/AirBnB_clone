@@ -4,7 +4,7 @@
 
 HolbertonBnB is a full-stack web application designed to replicate the core functionalities of Airbnb, providing users with a platform to discover, book, and list accommodations. Developed as a project for educational purposes by the Holberton School, this Airbnb clone employs modern web technologies and follows industry best practices to deliver a seamless user experience.
 
-## Table of Contents
+## Table of Contents:
 
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -14,7 +14,7 @@ HolbertonBnB is a full-stack web application designed to replicate the core func
 6. [Contributing](#contributing)
 7. [License](#license)
 
-## Introduction
+## Introduction:
 
 HolbertonBnB is built on the principles of usability, responsiveness, and scalability. The application allows users to register, search for accommodations, view property details, and make reservations. Hosts can list their properties, manage bookings, and interact with potential guests.
 
