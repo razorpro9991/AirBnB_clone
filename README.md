@@ -20,12 +20,12 @@ HolbertonBnB is built on the principles of usability, responsiveness, and scalab
 
 This Airbnb clone is a showcase of various web development concepts, including but not limited to:
 
-- Front-end and Back-end development
-- User authentication and authorization
-- Database design and management
-- API development
-- Responsive design for various devices
-- Deployment and hosting
+- Front-end and Back-end development.
+- User authentication and authorization.
+- Database design and management.
+- API development.
+- Responsive design for various devices.
+- Deployment and hosting.
 
 Whether you are a student looking to understand web development or someone interested in exploring the functionalities of Airbnb, HolbertonBnB provides an excellent learning resource.
 
