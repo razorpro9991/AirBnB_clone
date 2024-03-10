@@ -98,7 +98,4 @@ Detailed instructions on using the application, both as a user and as a host, ca
 
 We welcome contributions from the community. If you'd like to contribute to HolbertonBnB, please review our [Contribution Guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
