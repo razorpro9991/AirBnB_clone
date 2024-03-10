@@ -95,7 +95,7 @@ Detailed instructions on using the application, both as a user and as a host, ca
 
 ## Contributing
 
-We welcome contributions and from the community. If you'd like to contribute to HolbertonBnB, please review our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community. If you'd like to contribute to HolbertonBnB, please review our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
