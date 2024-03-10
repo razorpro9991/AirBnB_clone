@@ -29,7 +29,7 @@ This Airbnb clone is a showcase of various web development concepts, including b
 
 Whether you are a student looking to understand web development or someone interested in exploring the functionalities of Airbnb, HolbertonBnB provides an excellent learning resource.
 
-## Features: below are the features pertaining to user, admin, tech, etc...
+## Features:.
 
 ### User Features
 
