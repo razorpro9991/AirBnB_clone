@@ -30,9 +30,9 @@ This Airbnb clone is a showcase of various web development concepts, including b
 Whether you are a student looking to understand web development or someone interested in exploring the functionalities of Airbnb, HolbertonBnB provides an excellent learning resource.
 
 
-## Features:.
+## Features:
 
-### User Features
+### User Features:
 
 - **User Registration and Authentication:** Users can create accounts, log in, and securely authenticate their identities.
 - **Search and Filter:** A powerful search and filter system allows users to find accommodations based on various criteria such as location, dates, and property type.
@@ -41,13 +41,13 @@ Whether you are a student looking to understand web development or someone inter
 - **User Profiles:** Users and hosts have dedicated profiles to manage personal information, bookings, and property listings.
 - **Messaging:** A messaging system enables communication between hosts and guests.
 
-### Admin Features
+### Admin Features:
 
 - **Admin Dashboard:** A centralized dashboard for administrators to manage users, listings, and bookings.
 - **User Management:** Admins can view and manage user accounts, including blocking or deleting accounts when necessary.
 - **Listing Approval:** Admins can approve or reject property listings to ensure quality control.
 
-## Tech Stack
+## Tech Stack:
 
 HolbertonBnB leverages a modern and robust tech stack to deliver a reliable and efficient application.
 
@@ -59,7 +59,7 @@ HolbertonBnB leverages a modern and robust tech stack to deliver a reliable and 
 - **Version Control:** G
 - **Deployment:** Docker, AWS/GCP/Azure
 
-## Installation
+## Installation:
 
 To set up HolbertonBnB on your local machine, follow these steps:
 
@@ -90,15 +90,15 @@ To set up HolbertonBnB on your local machine, follow these steps:
 
 For more detailed instructions, refer to the [Installation Guide](docs/installation.md).
 
-## Usage
+## Usage:
 
 Detailed instructions on using the application, both as a user and as a host, can be found in the [User Guide](docs/user_guide.md).
 
-## Contributing
+## Contributing:
 
 We welcome contributions from the community. If you'd like to contribute to HolbertonBnB, please review our [Contribution Guidelines](CONTRIBUTING.md).
 
-## License
+## License:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
