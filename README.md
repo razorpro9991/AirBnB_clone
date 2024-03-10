@@ -92,7 +92,7 @@ For more detailed instructions, refer to the [Installation Guide](docs/installat
 
 ## Usage:
 
-Detailed instructions on using the application, both as a user and as a host, can be found in the [User Guide](docs/user_guide.md).
+For detailed instructions on using the application, both as a user and as a host, can be found in the [User Guide](docs/user_guide.md).
 
 ## Contributing:
 
